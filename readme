@@ -1,3 +1,9 @@
 This is new file
+<<<<<<< HEAD
 Adding new contents
 changing the file
+=======
+Adding new contents 
+
+New line added 
+>>>>>>> 91540439bd2d77ae3f6ddfbcf5db31bbd220ec66
